@@ -5,6 +5,12 @@ for Advanced requirements engineering
 
 This project contains a simple HTML file that you can view locally on your computer. Below are instructions on how to open the HTML file and view the webpage.
 
+## To view this activity diagram chart locally, you can:
+
+Copy this Mermaid code.
+Visit the Mermaid Live Editor (https://mermaid.live/).
+Paste the code into the editor and you will be able to see the visualised chart.
+
 ## How to View the HTML Page
 
 ### Method 1: Open Directly in a Browser
